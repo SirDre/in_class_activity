@@ -1,4 +1,4 @@
-# in_class_activity
+# Class Activity
 
 #### Take the sketches that you made last week go through and write some sementic HTML that will support the design & create the CSS that would render text consistent with what you saw ( & sketches)
 
